@@ -1,3 +1,6 @@
+### Link to Jupyter Notebook
+https://github.com/d-veli/car_price/blob/main/prompt_findings.ipynb
+
 ### Motivation: What Drives the Price of a Car
 In the notebook, we attempt to understand what factors make a car more or less expensive by building a regression model that predicts the price of used cars, provided certain features. From this model, we then extract the importance of each feature within the model. This information will inform us of the most important factors.
 
